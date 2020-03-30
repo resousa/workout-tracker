@@ -10,7 +10,7 @@
 
 ### Info
 This application was created using Mongo and Express, and is deployed using Heroku. This workout tracker gives the user the ability to keep track of all their personal workouts. The user has the ability to add new workouts based on cardio or resistance. From there the user inputs information based on the type of workout. Below is a screenshot of the main screen.
-![screencap](main)
+![screencap](https://github.com/resousa/workout-tracker/blob/master/public/images/main.PNG?raw=true)
 
 ### Technologies
 Project created with :
@@ -27,7 +27,7 @@ Project created with :
 ### Summary
 
 The workout tracker has a database created with mongoDB. The database is populated with a mongoose schema that is filled out by the user through input fields. The data is created stored and displayed with express routes. Once the user has entered in their workout information it then data is then displayed with charts on the websites dashboard. Below is an screenshot of the dashboard. 
-![dashboard](dash)
+![dashboard](https://github.com/resousa/workout-tracker/blob/master/public/images/dashboard.PNG?raw=true)
 
 ### Authors
 
